@@ -286,3 +286,86 @@ footer{
     text-align: center;
     margin-top: 155px;
 }
+
+/* tapones */
+#tapones .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 155px;
+}
+
+/* Gorro */
+#gorro .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 155px;
+}
+
+/* Pinzas */
+#pinzas .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 155px;
+}
+
+
+/* Zapatillas */
+#zapatillas .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 155px;
+}
+
+.ajuste {
+    width: 100%;
+    height: 200px;
+}
+
+/* pag gafas */
+#gafas .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 156px;
+}
+
+/* pag casco */
+#casco .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 156px;
+}
+
+/* pag luces */
+#luces .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 156px;
+}
+
+/* pag caramañolas */
+#caramañolas .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 156px;
+}
+
+/* pag ropa */
+#ropa .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 156px;
+}
+
+/* pag toallas */
+#toallas .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 156px;
+}
+
+/* pag botellas */
+#botellas .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 156px;
+}
